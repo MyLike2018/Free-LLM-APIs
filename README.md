@@ -1,6 +1,6 @@
 <div align="center">
 <img src="http://k.imiyoo.com/k.png" alt="icon" width="100px"/>
-<h1 align="center">KAPI-AI大模型网关服务<br>Free-LLM-APIs</h1>
+<h1 align="center">KAPI-AI大模型服务网关<br>Free-LLM-APIs</h1>
 
 支持 **OpenAI、智谱AI、月之暗面和零一万物**等大语言模型
 
